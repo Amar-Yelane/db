@@ -1,6 +1,7 @@
 [JSPM@localhost ~]$ su
 Password: 
 [root@localhost JSPM]# mongo
+insert into O_Rollcall1 values(1,'kajal');
 MongoDB shell version: 2.4.14
 connecting to: test
 > show dbs
